@@ -22,7 +22,7 @@ The project uses the CIFAR-10 dataset for image classification. The CIFAR-10 dat
 To run the project, follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/Jaiswal0786/Image-Classification.git`
+`git clone https://github.com/AJtheDeMoN/Image-Classification.git`
 
 2. Install the required dependencies. You can use `pip` to install the dependencies:
 
